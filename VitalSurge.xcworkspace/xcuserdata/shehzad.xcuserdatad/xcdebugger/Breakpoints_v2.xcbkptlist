@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E95C7067-AF21-472B-9DC2-446AE2936001"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03B01356-30FD-4ABE-B8FD-260F0F805E90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VitalSurge/Utils/FireStoreManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "uploadImage(image:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38FBDD35-8651-466E-BFB8-5E15BAEDCD50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VitalSurge/Stories/Community/BlogDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "keyboardWillShow(notification:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F227254-C373-46AD-8A39-4F755B9FDAEC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VitalSurge/Utils/FireStoreManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "createNewAccount(username:fullName:email:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1036C35-6A13-4BA2-AAB9-C6ED79B1FE2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VitalSurge/Stories/Home/HomeBlogDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "loginToWebsite(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1036C35-6A13-4BA2-AAB9-C6ED79B1FE2D - 791f7843fbdd2f12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VitalSurge.HomeBlogDetailVC.loginToWebsite(__C.WKWebView) -&gt; ()"
+                  moduleName = "VitalSurge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shehzad/Downloads/Projects/VitalSurge/VitalSurge/Stories/Home/HomeBlogDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "599">
+               </Location>
+               <Location
+                  uuid = "C1036C35-6A13-4BA2-AAB9-C6ED79B1FE2D - c893d22930d7c6d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VitalSurge.HomeBlogDetailVC.loginToWebsite(__C.WKWebView) -&gt; ()"
+                  moduleName = "VitalSurge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shehzad/Downloads/Projects/VitalSurge/VitalSurge/Stories/Home/HomeBlogDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "C1036C35-6A13-4BA2-AAB9-C6ED79B1FE2D - c893d22930d7c6d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VitalSurge.HomeBlogDetailVC.loginToWebsite(__C.WKWebView) -&gt; ()"
+                  moduleName = "VitalSurge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shehzad/Downloads/Projects/VitalSurge/VitalSurge/Stories/Home/HomeBlogDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
