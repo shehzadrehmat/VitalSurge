@@ -23,6 +23,7 @@ class AppTabController: UIViewController {
     private var selectedTab = 0
     
     var topVC: UIViewController {
+        
         let vc: UIViewController
         switch(selectedTab) {
             case 0: vc = homeVC
